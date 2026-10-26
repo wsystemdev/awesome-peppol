@@ -155,6 +155,7 @@ Model Context Protocol servers and skills that give AI assistants access to Pepp
 - [Billit MCP](https://github.com/eltyBelgium/billit-mcp) - MCP server for the Belgian Billit e-invoicing and Peppol platform API.
 - [e-invoice.be MCP server](https://e-invoice.be/mcp) - Remote MCP server at `api.e-invoice.be/mcp` with read-only tools for documents, deliveries and participant lookup.
 - [e-invoice.be Peppol skill](https://www.skills.sh/e-invoice-be/peppol-cli/peppol) - Agent skill for the Peppol CLI. Install it with `npx skills add e-invoice-be/peppol-cli`.
+- [eu-business-data-mcp](https://github.com/wsystemdev/eu-business-data-mcp) - Remote MCP server with tools for Peppol Directory routing, EN 16931 validation, UBL invoice creation and EU VAT checks.
 - [mcp-einvoicing-be](https://github.com/cmendezs/mcp-einvoicing-be) - MCP server to validate, generate and transform Belgian Peppol BIS 3.0 invoices and look up participants.
 - [mcp-peppol](https://github.com/pipeworx-io/mcp-peppol) - MCP server for Peppol participant lookup through the SML, SMPs and the Peppol Directory.
 - [phoss Peppol MCP](https://github.com/Helger-IT/phoss-peppol-mcp) - Java MCP server with tools for SMP lookup, document type support checks and Peppol DNS resolution.
